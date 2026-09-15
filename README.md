@@ -1,5 +1,7 @@
 # Studio Bloom — Booking Calendar
 
+### ▸ [View the live demo](https://amritvirk23av.github.io/studio-bloom-booking-calendar/)
+
 Boutique studio booking calendar — availability grid, drag-to-reschedule, conflict detection, admin panel. React + TypeScript + Tailwind CSS. Frontend-only.
 ## Features
 
