@@ -1,7 +1,6 @@
 # Studio Bloom — Booking Calendar
 
-A boutique clinic/studio booking calendar built with React, TypeScript, and Tailwind CSS. Frontend-only demo: mock staff/services/appointments seeded on first load and persisted to `localStorage`.
-
+Boutique studio booking calendar — availability grid, drag-to-reschedule, conflict detection, admin panel. React + TypeScript + Tailwind CSS. Frontend-only.
 ## Features
 
 - **Availability grid** — day view (staff as columns) and week view (days as columns for one selected staff member), 15-minute time slots
